@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App 500px</string>
+
+    <!--SPLASH-->
+    <string name="msg_create_category_error">Error when creating category!!!</string>
+    <string name="try_again">Try again</string>
+
+    <!--CATEGORY-->
+    <string name="category_list">CATEGORY LIST</string>
+
+    <!--RECENT PHOTOS-->
+    <string name="recent_photos">RECENT PHOTOS</string>
+</resources>
